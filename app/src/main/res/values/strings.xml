@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PermisosM</string>
+    <string name="camera_permission">Permiso de Camara</string>
+    <string name="body_sensor_permission">Permiso de Sensores</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="permission_granted">Permiso Concedido</string>
+    <string name="permission_rejected">Debes aceptar los permisos para continuar</string>
+    <string name="multiple_permissions">Multiples Permisos</string>
+</resources>
